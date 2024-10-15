@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Ideas for the future:
+- Hamming codes
+- Pseudo-random number generators
+- Asymmentric encryption
+- Logic circuit simulator
