@@ -1,4 +1,4 @@
-## Hi, I'm Antoni 👋
+## Hi, I'm Antoni Jan 👋
 I am a second-year Computer Science and Engineering student at TU\e Eindhoven. I am currently investigating fields of cyber-security and cryptology. 
 
 ### My current projects and ideas for the future
