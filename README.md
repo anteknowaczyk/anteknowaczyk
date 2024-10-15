@@ -1,21 +1,15 @@
 ## Hi there 👋
 
-<!--
-**anteknowaczyk/anteknowaczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Ideas for the future:
+I am currently investigating / working on:
 - Hamming codes, Polynomial error-detection -correction
 - Pseudo-random number generators
 - Asymmentric encryption
 - Logic circuit simulator
+
+####  Contact
+Visit my LinkedIn profile:
+- https://www.linkedin.com/in/antoni-jan-nowaczyk-ba50b3310
+
+Email address:
+- antoninowaczyk1@gmail.com
+- a.j.nowaczyk@student.tue.nl 
