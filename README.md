@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Ideas for the future:
-- Hamming codes
+- Hamming codes, Polynomial error-detection -correction
 - Pseudo-random number generators
 - Asymmentric encryption
 - Logic circuit simulator
