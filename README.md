@@ -18,9 +18,9 @@ I am a second-year Computer Science and Engineering student at TU\e Eindhoven.
 ### 🌱 My current projects and ideas for the future
 - Hamming codes, polynomial error detection
 - Logic circuit simulator
-- Pseudo-random number generator
+- Pseudo-random number generator algorithms
 - Integer probabilistic primality testing
-- Assymetric encryption algorithms
+- Asymmetric encryption algorithms
 
 ### 🙋‍♂️ Contact
 - Visit my [LinkedIn](https://www.linkedin.com/in/antoni-jan-nowaczyk-ba50b3310/) profile!
