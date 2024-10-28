@@ -12,13 +12,14 @@ I am a second-year Computer Science and Engineering student at TU\e Eindhoven.
 ![Promela](https://img.shields.io/badge/Promela-383428?style=for-the-badge)
 ![Spin](https://img.shields.io/badge/Spin-383428?style=for-the-badge)
 
-### 📖 I am currently learning:
+### 📖 I am currently learning
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF)
   
 ### 🌱 My current projects and ideas for the future
 - Hamming codes, polynomial error detection
 - Logic circuit simulator
 - Pseudo-random number generator
+- Integer probabilistic primality testing
 - Assymetric encryption algorithms
 
 ### 🙋‍♂️ Contact
