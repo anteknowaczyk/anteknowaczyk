@@ -11,8 +11,9 @@ I am a second-year Computer Science and Engineering student at TU\e Eindhoven.
 ![Matlab](https://img.shields.io/badge/MATLAB-E46404?style=for-the-badge)
 ![Promela](https://img.shields.io/badge/Promela-383428?style=for-the-badge)
 ![Spin](https://img.shields.io/badge/Spin-383428?style=for-the-badge)
+
 ### 🌱 My current projects and ideas for the future
-- Hamming codes, polynomial error deterction
+- Hamming codes, polynomial error detection
 - Logic circuit simulator
 - Pseudo-random number generator
 - Assymetric encryption algorithms
