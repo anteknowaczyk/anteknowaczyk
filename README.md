@@ -1,14 +1,23 @@
 ## Hi, I'm Antoni Jan 👋
-I am a second-year Computer Science and Engineering student at TU\e Eindhoven. I am currently investigating fields of cyber-security and cryptology. 
+I am a second-year Computer Science and Engineering student at TU\e Eindhoven.
 
-### My current projects and ideas for the future
+### ⚙️ Languages and Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Matlab](https://img.shields.io/badge/MATLAB-E46404?style=for-the-badge)
+![Promela](https://img.shields.io/badge/Promela-383428?style=for-the-badge)
+![Spin](https://img.shields.io/badge/Spin-383428?style=for-the-badge)
+### 🌱 My current projects and ideas for the future
 - Hamming codes, polynomial error deterction
 - Logic circuit simulator
 - Pseudo-random number generator
 - Assymetric encryption algorithms
 
-### Contact
-- Visit my [LinkedIn](https://www.linkedin.com/in/antoni-jan-nowaczyk-ba50b3310/) profile.
-- Contact me via email antoninowaczyk1@gmail.com.
-
+### 🙋‍♂️ Contact
+- Visit my [LinkedIn](https://www.linkedin.com/in/antoni-jan-nowaczyk-ba50b3310/) profile!
+- Send me an email [antoninowaczyk1@gmail.com](antoninowaczyk1@gmail.com)!
 ---
