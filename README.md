@@ -14,6 +14,7 @@ I am a second-year Computer Science and Engineering student at TU\e Eindhoven.
 
 ### 📖 I am currently learning
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
 ### 🌱 My current projects and ideas for the future
 - Hamming codes, polynomial error detection
